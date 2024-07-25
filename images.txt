@@ -1,2 +1,2 @@
-docker.io/library/nginx:1.26.1
+busybox:stable
 #test
