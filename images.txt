@@ -1,2 +1,2 @@
-busybox:stable
+mysql:8.0
 #test
